@@ -1,0 +1,20 @@
+pydantic
+requests
+pycocotools
+einops
+diffusers
+transformers
+torch
+# pytorch
+accelerate
+scipy
+safetensors
+xformers
+pillow
+numpy
+opencv-python
+torchvision
+
+git+https://github.com/facebookresearch/segment-anything.git
+git+https://github.com/huggingface/transformers.git
+#new
